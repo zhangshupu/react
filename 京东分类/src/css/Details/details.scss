@@ -1,0 +1,15 @@
+@import './common.scss';
+.details{
+    width: 100%;
+    height: 100%;
+    background: #fdf;
+    img{
+        width: 50%;
+        height: auto;
+        margin: 0 25%;
+    }
+    dd{
+        text-align: center
+        ;font-size: pxTorem(40px)
+    }
+}
