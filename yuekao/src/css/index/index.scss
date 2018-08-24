@@ -1,0 +1,24 @@
+@import './common.scss';
+.wrap {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    header {
+        width: 94%;
+        height: pxTorem(40px);
+        display: flex;
+        justify-content: space-between;
+        padding: 0 3%;
+        align-items: center;
+        background: #0af;
+        span {
+            font-size: pxTorem(14px);
+            color: #fff;
+        }
+    }
+    section{
+        flex: 1;
+        background: #eee;
+    }
+}

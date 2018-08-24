@@ -1,0 +1,37 @@
+{
+    "list": [{
+        "img":"/images/tp1.gif",
+        "name":"紫色的花青素",
+        "content":"紫薯黑米·健康粗粮的营养补给",
+        "price":"17.9",
+        "id":0,
+        "num":0,
+        "isSelect":false
+    },{
+        "img":"/images/tp2.gif",
+        "name":"紫色的花青素",
+        "content":"紫薯黑米·健康粗粮的营养补给",
+        "price":"27.9",
+        "id":1,
+        "num":0,
+        "isSelect":false
+    },{
+        "img":"/images/tp3.gif",
+        "name":"紫色的花青素",
+        "content":"紫薯黑米·健康粗粮的营养补给",
+        "price":"37.9",
+        "id":2,
+        "num":0,
+        "isSelect":false
+    },{
+        "img":"/images/tp1.gif",
+        "name":"紫色的花青素",
+        "content":"紫薯黑米·健康粗粮的营养补给",
+        "price":"47.9",
+        "id":3,
+        "num":0,
+        "isSelect":false
+    }],
+    "isCover":false,
+    "isLogine": false
+}

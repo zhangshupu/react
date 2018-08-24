@@ -1,0 +1,10 @@
+{
+    "list":[
+        {
+            "title":"标题",
+            "text":"内容",
+            "huifu":false,
+            "read":false
+        }
+    ]
+}

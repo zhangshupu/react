@@ -1,0 +1,42 @@
+@import './common.scss';
+.replid{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    a{
+        list-style: none;
+        width: 94%;
+        padding: pxTorem(8px) 3%;
+        background: #fff;
+        margin-top: pxTorem(15px);
+        position: relative;
+        color: #000;
+        h3{
+            font-size: pxTorem(14px);
+            em{
+                padding: pxTorem(4px);
+                background: #f00;
+                color: #fff;
+                margin-right:pxTorem(8px);
+                font-size: pxTorem(12px);
+            }
+        }
+        p{
+            margin-top: pxTorem(8px);
+            em{
+                font-size: pxTorem(10px);
+                color: #f00;
+            }
+            span{
+                margin-left: pxTorem(12px)
+            }
+        }
+        .iconfont{
+            position: absolute;
+            right: pxTorem(10px);
+            top: 43%;
+            font-size: pxTorem(18px)
+        }
+    }
+}

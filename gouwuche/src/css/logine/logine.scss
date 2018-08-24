@@ -1,0 +1,28 @@
+@import './common.scss';
+.logine {
+    width: 100%;
+    height: 100%;
+    h3 {
+        width: 100%;
+        padding: pxTorem(8px) 0;
+        input {
+            width: 80%;
+            height: pxTorem(30px);
+            border: solid #eee pxTorem(1px)
+        }
+    }
+    a {
+        width: 60%;
+        height: pxTorem(30px);
+        button {
+            width: 100%;
+            height: pxTorem(30px);
+            background: #f00;
+            color: #fff;
+            text-align: center;
+            line-height: pxTorem(30px);
+            font-size: pxTorem(20px);
+            margin: 0 auto;
+        }
+    }
+}
